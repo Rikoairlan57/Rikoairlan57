@@ -1,4 +1,5 @@
-on: 
+ name: welcome to rikoairlan
+ on: 
    push:
    schedule:
      - cron: '* */24 * * *'
@@ -7,8 +8,11 @@ on:
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
+       - uses: riko
+       - uses: airlan
          with:
             # Use this username's contribution graph  
             user_name: rikoairlan
             # Text on contribution graph 
             text: WELCOME
+       - uses: riko
