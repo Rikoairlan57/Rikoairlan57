@@ -1,4 +1,4 @@
- name: welcome to rikoairlan
+ name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -8,11 +8,11 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
-       - uses: riko
-       - uses: airlan
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: rikoairlan
             # Text on contribution graph 
             text: WELCOME
-       - uses: riko
+       - uses: jasineri/simple-push-action@v1
