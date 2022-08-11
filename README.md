@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riko Airlan Ramadhan</h1>
 <h3 align="center">A passionate frontend developer from indonesia</h3>
 
-![rikoairlan/gitartwork](https://github.com/Rikoairlan57/Rikoairlan57/blob/main/gitartwork.svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikoairlan57&label=Profile%20views&color=0e75b6&style=flat" alt="rikoairlan57" /> </p>
 
 - 🌱 I’m currently learning **Nextjs & Typescript**
