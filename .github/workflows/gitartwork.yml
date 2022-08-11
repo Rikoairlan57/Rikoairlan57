@@ -1,4 +1,3 @@
- name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -8,11 +7,9 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: rikoairlan
             # Text on contribution graph 
             text: WELCOME
-       - uses: jasineri/simple-push-action@v1
+
