@@ -26,5 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikoairlan57&show_icons=true&locale=en" alt="rikoairlan57" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikoairlan57&show_icons=true&locale=en&layout=compact" alt="rikoairlan57" /></p>
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
