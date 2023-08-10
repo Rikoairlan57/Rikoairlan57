@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riko Airlan Ramadhan</h1>
-<h3 align="center">A passionate frontend developer from indonesia</h3>
+<h3 align="center">A Passionate Software Developer from Indonesia</h3>
 
 ![gitartwork](gitartwork.svg)
 
